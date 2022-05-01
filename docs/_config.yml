@@ -32,8 +32,8 @@ urls:
     - text: My Projects
       url: /projects/
       
-url: "https://muksmuks.github.io/rl"
-baseurl: "https://muksmuks.github.io/rl"
+url: "https://muksmuks.github.io/python"
+baseurl: "https://muksmuks.github.io/python"
 
 compress_html:
   clippings: all
